@@ -1,3 +1,6 @@
+Thanks for the great work of MMLab.
+For more details, refer to https://github.com/open-mmlab/OpenPCDet.
+
 <img src="docs/open_mmlab.png" align="right" width="30%">
 
 # OpenPCDet
